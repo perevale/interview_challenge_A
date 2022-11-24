@@ -1,1 +1,1 @@
-# accenture_interview_challenge
+# interview_challenge
